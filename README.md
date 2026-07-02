@@ -1,16 +1,21 @@
-## Hi there 👋
+# Bonjour, je suis Ahlam 👋
 
-<!--
-**ahlamennesyry05/ahlamennesyry05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante ingénieure en Informatique & Data — Polytech Annecy-Chambéry  
+📍 Annecy, France  
+💻 Passionnée par la data, le développement logiciel et l'intelligence artificielle
 
-Here are some ideas to get you started:
+## 🛠️ Compétences
+- Java — Programmation Orientée Objet
+- Data Science & Analyse de données
+- Algorithmique & structures de données
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projets
+Mes projets couvrent des domaines variés : développement logiciel, 
+modélisation orientée objet, traitement et analyse de données. 
+Chaque projet reflète une approche rigoureuse et des compétences 
+acquises en école d'ingénieurs.
+
+## 📫 Me contacter
+linkedin.com/in/ahlam-en-nesyry-2792983a8
+
